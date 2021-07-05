@@ -56,7 +56,7 @@ chmod ugo-rwxs
 ```
 -   Try to remove that directory. 
 ```
-Could not enter folder /home/maxim/1 
+Access denied to /home/maxim/.local/share/Trash/files/1.
 ```  
 
 -    Create simple script which prints current date. Try to execute it. 
