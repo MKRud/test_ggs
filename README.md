@@ -55,7 +55,7 @@ du -sh test1
 chmod ugo-rwxs
 ```
 -   Try to remove that directory. 
-```console
+```
 Could not enter folder /home/maxim/1 
 ```  
 
