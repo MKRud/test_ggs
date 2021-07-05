@@ -55,6 +55,8 @@ Could not enter folder /home/maxim/1
 -    Create simple script which prints current date. Try to execute it. 
 ```console
 echo "date '+%B %d'" > script.sh, bash script.sh
+```
+```
 July 05
 ```  
 
