@@ -47,7 +47,7 @@
 -  Top 3 IP addresses by amount of POST requests. - grep 'POST' test.txt
 
 
--  Which IP addresses received 403 error ? - awk {'print $9'} test.txt | grep '403' | wc -l
+-  Which IP addresses received 403 error ? - grep ' 403' test.txt | awk {'print $1'}
 
 
 - Task with * . Write script to show which pages Google checked from the website - echo 'grep "Google"' test.txt > scriptWith*.sh
