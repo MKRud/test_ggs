@@ -1,7 +1,9 @@
 ## Basic work with files
 
 - Create directory test1 
-```  mkdir test1```
+```console
+mkdir test1
+```  
 
 - Create file test1.txt inside the test1 directory. - cd test1, touch test1.txt
 
